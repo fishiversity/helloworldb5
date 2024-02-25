@@ -1,5 +1,5 @@
 {
-    "name": "helloWorldB5",
+    "name": "eventAnimation",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -16,7 +16,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "5.0.12",
+        "target": "6.0.25",
         "targetId": "microbit"
     },
     "supportedTargets": [
